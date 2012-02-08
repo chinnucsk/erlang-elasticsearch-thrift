@@ -1,0 +1,6 @@
+{application, elasticsearch_thrift, [
+    {description, "Erlang ElasticSearch Thrift adapter"},
+    {vsn, "0.1.0"},
+    {applications, [kernel, stdlib]},
+    {registered, []}
+]}.
